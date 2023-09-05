@@ -34,7 +34,7 @@ Using my skills in HTML, CSS, JavaScript, and the artful touch of SASS/SCSS, I'v
 
 - User Experience Optimization: A user-friendly interface ensures intuitive navigation, making it easy for users to explore recipes and content effortlessly.
 
-## here's how Foodies is constructed:
+## Here's how Foodies is constructed:
 
 - HTML Structure: Foodies starts with a solid HTML foundation, ensuring semantic and accessible content structure.
 
